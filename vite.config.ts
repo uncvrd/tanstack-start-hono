@@ -5,7 +5,7 @@ import { defineConfig } from 'vite'
 import viteTsConfigPaths from 'vite-tsconfig-paths'
 
 const config = defineConfig({
-  // base: '/custom/basepath',
+  // base: '/static-assets',
   server: {
     port: 3000,
   },

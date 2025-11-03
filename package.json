@@ -6,6 +6,7 @@
     "dev": "NODE_ENV=development tsx hono-server.ts",
     "build": "vite build",
     "serve": "vite preview",
+    "start": "tsx hono-server.ts",
     "test": "vitest run",
     "lint": "eslint",
     "format": "prettier",
